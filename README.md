@@ -1,8 +1,7 @@
 ### Hi there 👋
 # 💫About Me :
-  - 🔭 I'm Mobile App Developer.
+  - 🔭 I'm Software Engineer
   - 👯 I'm looking to collaborate on good project ideas.
-  - 💬 Ask me about Mobile Enginnering
    
 
 ## 🌐Socials
