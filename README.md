@@ -14,7 +14,7 @@
 
 
 ## Checkout my coding profile: 
-[![Leetcode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=leetcode&logoColor=white)](https://leetcode.com/sainx_tushar_01/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/Imhustler/)
 
 
 # 📊GitHub Stats :
